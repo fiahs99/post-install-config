@@ -26,7 +26,7 @@ Great! Now that osTicket is successfully configured, we will proceed with system
 <br />
 
 <p>
-<img src="https://i.imgur.com/DAhGSan.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![osticket1](https://github.com/user-attachments/assets/aef2874b-35c3-4880-ae95-2dcb2fc66f1e)
 </p>
 <p>
 To configure new roles within the help desk, go to the Admin Panel -> Agents -> Roles. Click on "Add new role" and enter the name of the new role, such as Supreme Admin. This will allow you to define the permissions and responsibilities for the role. Since you are creating a Supreme Admin role, this role will be granted all permissions. Ensure all available permissions are selected for this role to provide full administrative access.
