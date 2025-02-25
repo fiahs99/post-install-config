@@ -31,7 +31,7 @@ To configure new roles within the help desk, go to the Admin Panel -> Agents -> 
 <br />
 
 <p>
-<img src="https://i.imgur.com/KzFVjJQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EIzUxlN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select the "Departments" button in the Agents tab. Here, you can create a new department, with each agent assigned to a specific department based on their role within the help desk. Create a department named "System Administrators", which will serve as the designated department for Supreme Admins. Additional settings, such as SLAs, managers, and email configurations, can be customized within the Departments tab to align with your help desk's operational needs.
@@ -39,7 +39,7 @@ Select the "Departments" button in the Agents tab. Here, you can create a new de
 <br />
 
 <p>
-<img src="https://i.imgur.com/ob4MEma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Pbz1TWR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To configure teams, navigate to Admin Panel -> Agents -> Teams. Teams allow you to group agents from different departments to collaborate effectively. Create a team named Level II Support and assign agents from various departments as needed.
@@ -47,7 +47,7 @@ To configure teams, navigate to Admin Panel -> Agents -> Teams. Teams allow you 
 <br />
 
 <p>
-<img src="https://i.imgur.com/TcRrhwN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n7lEZzu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings. Uncheck the option "Require registration and login to create tickets" to enable unregistered users to submit tickets without needing an account.
@@ -55,7 +55,7 @@ To allow anyone to create tickets, go to Admin Panel -> Settings -> User Setting
 <br />
 
 <p>
-<img src="https://i.imgur.com/dwAhP3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q6ci0nz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To configure agents (workers), go to Admin Panel -> Agents -> Add New. Fill in the necessary details, such as the agent's name, email, assigned role, and department, to set up their profile and permissions.
@@ -63,7 +63,7 @@ To configure agents (workers), go to Admin Panel -> Agents -> Add New. Fill in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/aYLnu3z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TtW8xRU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To configure users (customers), go to Agent Panel -> Users -> Add New. Add users such as Ryu and Ken by entering their details, including names and email addresses, to enable them to submit and manage their tickets.
@@ -71,7 +71,7 @@ To configure users (customers), go to Agent Panel -> Users -> Add New. Add users
 <br />
 
 <p>
-<img src="https://i.imgur.com/YXWfwh8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M9hbdKN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To configure help topics for user ticket creation, navigate to Admin Panel -> Manage -> Help Topics. These topics will guide users in categorizing their tickets effectively.
