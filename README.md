@@ -17,9 +17,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/sx170cG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Great! Now that osTicket is successfully configured, we will proceed with system administration tasks, starting with configuring new roles within the help desk. This will allow you to manage user access and permissions effectively.
 </p>
